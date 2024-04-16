@@ -13,10 +13,10 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## links de referencia
+https://api.flutter.dev/flutter/material/Colors-class.html
+https://medium.com/flutter-espa%C3%B1a/desaf%C3%ADos-con-flutter-container-38842d23e2b7
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
 ## Imagenes
 ![image](https://github.com/YizziaA/u2_rutapantallas/assets/143548810/57851c0f-5ff6-411f-8d90-7bca88fab3e1)
 ![image](https://github.com/YizziaA/u2_rutapantallas/assets/143548810/67a73d9f-94da-4656-a49a-c3ea5d786d17)
